@@ -22,6 +22,10 @@
       <module name="airsoft_integrationTest" target="1.8" />
       <module name="airsoft_main" target="1.8" />
       <module name="airsoft_test" target="1.8" />
+      <module name="airsoftsmair_main" target="1.8" />
+      <module name="airsoftsmair_test" target="1.8" />
+      <module name="smair_main" target="1.8" />
+      <module name="smair_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

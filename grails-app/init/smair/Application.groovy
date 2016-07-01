@@ -1,4 +1,4 @@
-package airsoft
+package smair
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration

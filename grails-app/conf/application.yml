@@ -51,7 +51,7 @@ environments:
 grails:
     profile: web
     codegen:
-        defaultPackage: airsoft
+        defaultPackage: com.smair
     spring:
         transactionManagement:
             proxies: false

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/airsoft.iml" filepath="$PROJECT_DIR$/.idea/modules/airsoft.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/airsoft_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/airsoft_integrationTest.iml" group="airsoft" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/airsoft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/airsoft_main.iml" group="airsoft" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/airsoft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/airsoft_test.iml" group="airsoft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smair.iml" filepath="$PROJECT_DIR$/.idea/modules/smair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smair_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smair_main.iml" group="smair" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smair_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smair_test.iml" group="smair" />
     </modules>
   </component>
 </project>

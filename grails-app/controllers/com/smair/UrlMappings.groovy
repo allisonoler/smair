@@ -1,4 +1,4 @@
-package airsoft
+package com.smair
 
 class UrlMappings {
 
