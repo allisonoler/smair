@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - smair@localhost" uuid="912cc5c0-71a7-4d70-8770-86db4c5c3a39">
+      <secret-storage>master_key</secret-storage>
+      <user-name>smair</user-name>
+      <schema-pattern>smair.pg_catalog smair.public</schema-pattern>
+      <default-schemas>smair.public</default-schemas>
+    </data-source>
+  </component>
+</project>
