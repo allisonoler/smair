@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9e36b43-7658-415a-bc4d-dbc7d3b37af3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/create.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/create.gsp" />
     </list>
     <ignored path="airsoft.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -970,6 +969,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/grails-app/init/smair/Application.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/create.gsp" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -1347,12 +1347,20 @@
       <workItem from="1466805843459" duration="488000" />
       <workItem from="1466807822995" duration="766000" />
       <workItem from="1467134422188" duration="13075000" />
-      <workItem from="1467405395385" duration="7514000" />
+      <workItem from="1467405395385" duration="7607000" />
     </task>
+    <task id="LOCAL-00001" summary="removed some non-admin user fields">
+      <created>1467826567270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467826567271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29854000" />
+    <option name="totallyTimeSpent" value="29947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1400,6 +1408,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="removed some non-admin user fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed some non-admin user fields" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
