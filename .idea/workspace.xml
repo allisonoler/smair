@@ -2,72 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9e36b43-7658-415a-bc4d-dbc7d3b37af3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/G36guy.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/about-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/contact-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/ear-piece.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/event-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/event/event1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/event/event2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/event/event3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/guitar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/header-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/map-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/performar-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/slider/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/slider/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/slider/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor/sponsor1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor/sponsor2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor/sponsor3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor/sponsor4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor/sponsor5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/sponsor/sponsor6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/twit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/twitter-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/twitter/twitter1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/twitter/twitter2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/twitter/twitter3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/watch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/coundown-timer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/gmaps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/jquery.nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/jquery.parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/jquery.scrollTo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/modernizr.custom.86080.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/smoothscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/main.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp.orig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___smair___smair_0_1_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___smair___smair_0_1_war.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___smair___smair_0_1_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___smair___smair_0_1_war__exploded_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/smair_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/smair_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/smair_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/smair_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/assets/stylesheets/main.css" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
     </list>
     <ignored path="airsoft.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1021,10 +958,10 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/grails-app/init/smair/Application.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/create.gsp" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/assets/javascripts/main.js" />
         <option value="$PROJECT_DIR$/grails-app/conf/application.groovy" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -1479,7 +1416,7 @@
       <workItem from="1468352690474" duration="1356000" />
       <workItem from="1468430357701" duration="89000" />
       <workItem from="1468605112623" duration="3116000" />
-      <workItem from="1468863566453" duration="3607000" />
+      <workItem from="1468863566453" duration="3673000" />
     </task>
     <task id="LOCAL-00001" summary="removed some non-admin user fields">
       <created>1467826567270</created>
@@ -1502,11 +1439,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467826609378</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New home page based on model downloaded from internet.">
+      <created>1468947791361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1468947791361</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43472000" />
+    <option name="totallyTimeSpent" value="43538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1553,9 +1497,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="removed some non-admin user fields" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed some non-admin user fields" />
+    <MESSAGE value="New home page based on model downloaded from internet." />
+    <option name="LAST_COMMIT_MESSAGE" value="New home page based on model downloaded from internet." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
