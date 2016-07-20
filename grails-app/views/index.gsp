@@ -54,7 +54,12 @@
 		                    <li class="scroll"><a href="#event">Event</a></li>
 		                    <li class="scroll"><a href="#about">About</a></li>                     
 		                    <li class="no-scroll"><a href="#twitter">Twitter</a></li>
-		                    <li><a class="no-scroll" href="#" target="_blank">PURCHASE TICKETS</a></li>
+							<sec:ifLoggedIn>
+								<li><g:link class="no-scroll" controller="logoff">LOGOUT</g:link></li>
+							</sec:ifLoggedIn>
+							<sec:ifNotLoggedIn>
+		                    	<li><g:link class="no-scroll" controller="login">LOGIN</g:link></li>
+							</sec:ifNotLoggedIn>
 		                    <li class="scroll"><a href="#contact">Contact</a></li>       
 		                </ul>
 		            </div>
@@ -75,25 +80,22 @@
 				<div class="item active">
 					<asset:image class="img-responsive" src="slider/bg1.jpg" alt="slider"/>
 					<div class="carousel-caption">
-						<h2>register for our next event </h2>
-						<h4>full event package only @$199</h4>
-						<a href="#contact">GRAB YOUR TICKETS <i class="fa fa-angle-right"></i></a>
+						<h2>create an account today </h2>
+						<g:link controller="user" action="create">REGISTER <i class="fa fa-angle-right"></i></g:link>
 					</div>
 				</div>
 				<div class="item">
 					<asset:image class="img-responsive" src="slider/bg2.jpg" alt="slider"/>
 					<div class="carousel-caption">
-						<h2>register for our next event </h2>
-						<h4>full event package only @$199</h4>
-						<a href="#contact">GRAB YOUR TICKETS <i class="fa fa-angle-right"></i></a>
+						<h2>create an account today </h2>
+						<g:link controller="user" action="create">REGISTER <i class="fa fa-angle-right"></i></g:link>
 					</div>
 				</div>
 				<div class="item">
 					<asset:image class="img-responsive" src="slider/bg3.jpg" alt="slider"/>
 					<div class="carousel-caption">
-						<h2>register for our next event </h2>
-						<h4>full event package only @$199</h4>
-						<a href="#contact" >GRAB YOUR TICKETS <i class="fa fa-angle-right"></i></a>
+						<h2>create an account today </h2>
+						<g:link controller="user" action="create">REGISTER <i class="fa fa-angle-right"></i></g:link>
 					</div>
 				</div>				
 			</div>
