@@ -44,7 +44,7 @@
 		                    <span class="icon-bar"></span>
 		                </button>
 		                <a class="navbar-brand" href="/">
-		                	<asset:image class="img-responsive" src="logo.png" alt="logo"/>
+		                	<asset:image id="logo" class="img-responsive" src="AirsoftLogo.png" alt="logo"/>
 		                </a>                    
 		            </div>
 		            <div class="collapse navbar-collapse">
@@ -73,7 +73,7 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="item active">
-					<asset:image class="img-responsive" src="slider/bg1.jpg" alt="slider"/>
+					<asset:image class="img-responsive" src="slider/G36guy.jpeg" alt="slider"/>
 					<div class="carousel-caption">
 						<h2>register for our next event </h2>
 						<h4>full event package only @$199</h4>
@@ -81,7 +81,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<asset:image class="img-responsive" src="slider/bg2.jpg" alt="slider"/>
+					<asset:image class="img-responsive" src="slider/how-to-airsoft-on-a-budget.jpg" alt="slider"/>
 					<div class="carousel-caption">
 						<h2>register for our next event </h2>
 						<h4>full event package only @$199</h4>
@@ -89,7 +89,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<asset:image class="img-responsive" src="slider/bg3.jpg" alt="slider"/>
+					<asset:image class="img-responsive" src="slider/tactical-airsoft.jpg" alt="slider"/>
 					<div class="carousel-caption">
 						<h2>register for our next event </h2>
 						<h4>full event package only @$199</h4>

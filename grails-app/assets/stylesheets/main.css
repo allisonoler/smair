@@ -102,7 +102,7 @@ h2 {
 }
 
 .navbar-brand {
-  background-color: #1B7B98;
+  background-color: rgba(0, 0, 0, 0.6);
   height: 90px;
   margin-bottom: 20px;
   position: relative;
@@ -110,12 +110,13 @@ h2 {
 }
 
 .navbar-brand img {
+  max-width: 155%;
   position: absolute;
-  top: -35px;
+  top: -60px;
 }
 
 .navbar-right {
-  background-color: #1B7B98;
+  background-color: rgba(1, 1, 1, 0.84);
   padding:0 95px 0 0;
   opacity: .9
 }
@@ -132,13 +133,13 @@ h2 {
 .navbar-right li a:hover, 
 .navbar-right li a:focus,  
 .navbar-right .active a {
-  background-color: #fff;
-  color: #16728f
+  background-color: #004e23;
+  color: #000000
 }
 
 
 .fixed-menu {
-  background-color: #1B7B98;
+  background-color: rgba(0, 83, 36, 0.93);
   position: fixed;
   top: 0;
 }
