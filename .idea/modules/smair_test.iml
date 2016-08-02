@@ -128,8 +128,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-io:commons-io:2.4" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.3.1" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-datastore-core:5.0.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.2.16.v20160414" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-datastore-gorm:5.0.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.2.16.v20160414" level="project" />
     <orderEntry type="library" name="Gradle: dom4j:dom4j:1.6.1" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-datastore-gorm-hibernate-core:5.0.8.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.hibernate.common:hibernate-commons-annotations:4.0.5.Final" level="project" />
@@ -161,8 +161,8 @@
     <orderEntry type="library" name="Gradle: org.grails:grails-web-mvc:3.1.8" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-sitemesh:3.1.8" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-converters:3.1.8" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.javascript:closure-compiler:v20151015" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-mimetypes:3.1.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.javascript:closure-compiler:v20151015" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-validation:3.1.8" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-domain-class:3.1.8" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-logging-log4j:8.0.33" level="project" />
@@ -186,10 +186,10 @@
     <orderEntry type="library" name="Gradle: com.fasterxml:classmate:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.codehaus.jsr166-mirror:jsr166y:1.7.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.jetty:jetty-util:9.2.16.v20160414" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.jetty:jetty-io:9.2.16.v20160414" level="project" />
     <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.gebish:geb-waiting:0.12.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.jetty:jetty-io:9.2.16.v20160414" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.2.16.v20160414" level="project" />
+    <orderEntry type="library" name="Gradle: org.gebish:geb-waiting:0.12.2" level="project" />
     <orderEntry type="library" name="Gradle: org.gebish:geb-ast:0.12.2" level="project" />
     <orderEntry type="library" name="Gradle: cglib:cglib-nodep:2.1_3" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-api:2.47.1" level="project" />

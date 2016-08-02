@@ -10,8 +10,8 @@
       <schema id="2" parent="1" name="public">
         <object-id>2200</object-id>
         <comment>standard public schema</comment>
-        <introspection-state-number>889</introspection-state-number>
-        <introspection-timestamp>2016-06-30.09:37:28.077</introspection-timestamp>
+        <introspection-state-number>626</introspection-state-number>
+        <introspection-timestamp>2016-07-06.12:06:28.812</introspection-timestamp>
       </schema>
       <schema id="3" parent="1" name="pg_catalog">
         <object-id>11</object-id>
@@ -20,48 +20,48 @@
         <introspection-timestamp>2016-06-29.15:47:55.566</introspection-timestamp>
       </schema>
       <sequence id="4" parent="2" name="role_group_id_seq">
-        <object-id>16988</object-id>
-        <state-number>889</state-number>
+        <object-id>16423</object-id>
+        <state-number>626</state-number>
       </sequence>
       <sequence id="5" parent="2" name="role_id_seq">
-        <object-id>16982</object-id>
-        <state-number>889</state-number>
+        <object-id>16417</object-id>
+        <state-number>626</state-number>
       </sequence>
       <sequence id="6" parent="2" name="users_id_seq">
-        <object-id>16971</object-id>
-        <state-number>889</state-number>
+        <object-id>16406</object-id>
+        <state-number>626</state-number>
       </sequence>
       <table id="7" parent="2" name="databasechangelog">
-        <object-id>16965</object-id>
-        <state-number>888</state-number>
+        <object-id>16400</object-id>
+        <state-number>625</state-number>
       </table>
       <table id="8" parent="2" name="databasechangeloglock">
-        <object-id>16960</object-id>
-        <state-number>885</state-number>
+        <object-id>16395</object-id>
+        <state-number>622</state-number>
       </table>
       <table id="9" parent="2" name="role">
-        <object-id>16984</object-id>
-        <state-number>889</state-number>
+        <object-id>16419</object-id>
+        <state-number>626</state-number>
       </table>
       <table id="10" parent="2" name="role_group">
-        <object-id>16990</object-id>
-        <state-number>889</state-number>
+        <object-id>16425</object-id>
+        <state-number>626</state-number>
       </table>
       <table id="11" parent="2" name="role_group_role">
-        <object-id>16994</object-id>
-        <state-number>889</state-number>
+        <object-id>16429</object-id>
+        <state-number>626</state-number>
       </table>
       <table id="12" parent="2" name="user_role">
-        <object-id>16997</object-id>
-        <state-number>889</state-number>
+        <object-id>16432</object-id>
+        <state-number>626</state-number>
       </table>
       <table id="13" parent="2" name="user_role_group">
-        <object-id>17000</object-id>
-        <state-number>889</state-number>
+        <object-id>16435</object-id>
+        <state-number>626</state-number>
       </table>
       <table id="14" parent="2" name="users">
-        <object-id>16973</object-id>
-        <state-number>889</state-number>
+        <object-id>16408</object-id>
+        <state-number>626</state-number>
       </table>
       <table id="15" parent="3" name="pg_aggregate">
         <object-id>2600</object-id>
@@ -20768,83 +20768,83 @@
         <bind-function>bpchariclike(char,text)</bind-function>
       </operator>
       <column id="3702" parent="7" name="id">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3703" parent="7" name="author">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3704" parent="7" name="filename">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3705" parent="7" name="dateexecuted">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <mandatory>1</mandatory>
         <data-type>timestamp</data-type>
       </column>
       <column id="3706" parent="7" name="orderexecuted">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <mandatory>1</mandatory>
         <data-type>integer</data-type>
       </column>
       <column id="3707" parent="7" name="exectype">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(10)</data-type>
       </column>
       <column id="3708" parent="7" name="md5sum">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(35)</data-type>
       </column>
       <column id="3709" parent="7" name="description">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3710" parent="7" name="comments">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3711" parent="7" name="tag">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3712" parent="7" name="liquibase">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(20)</data-type>
       </column>
       <column id="3713" parent="7" name="contexts">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3714" parent="7" name="labels">
-        <state-number>888</state-number>
+        <state-number>625</state-number>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3715" parent="8" name="id">
-        <state-number>885</state-number>
+        <state-number>622</state-number>
         <mandatory>1</mandatory>
         <data-type>integer</data-type>
       </column>
       <column id="3716" parent="8" name="locked">
-        <state-number>885</state-number>
+        <state-number>622</state-number>
         <mandatory>1</mandatory>
         <data-type>boolean</data-type>
       </column>
       <column id="3717" parent="8" name="lockgranted">
-        <state-number>885</state-number>
+        <state-number>622</state-number>
         <data-type>timestamp</data-type>
       </column>
       <column id="3718" parent="8" name="lockedby">
-        <state-number>885</state-number>
+        <state-number>622</state-number>
         <data-type>varchar(255)</data-type>
       </column>
       <index id="3719" parent="8" name="pk_databasechangeloglock">
-        <object-id>16963</object-id>
+        <object-id>16398</object-id>
         <columns>id</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
@@ -20855,29 +20855,29 @@
         <primary>1</primary>
       </key>
       <column id="3721" parent="9" name="id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
         <default-expression>nextval(&apos;role_id_seq&apos;::regclass)</default-expression>
       </column>
       <column id="3722" parent="9" name="version">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <column id="3723" parent="9" name="authority">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <index id="3724" parent="9" name="role_pkey">
-        <object-id>17007</object-id>
+        <object-id>16442</object-id>
         <columns>id</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
       </index>
       <index id="3725" parent="9" name="role_authority_key">
-        <object-id>17045</object-id>
+        <object-id>16480</object-id>
         <columns>authority</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
@@ -20892,29 +20892,29 @@
         <underlying-index>role_authority_key</underlying-index>
       </key>
       <column id="3728" parent="10" name="id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
         <default-expression>nextval(&apos;role_group_id_seq&apos;::regclass)</default-expression>
       </column>
       <column id="3729" parent="10" name="version">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <column id="3730" parent="10" name="name">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <index id="3731" parent="10" name="role_group_pkey">
-        <object-id>17003</object-id>
+        <object-id>16438</object-id>
         <columns>id</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
       </index>
       <index id="3732" parent="10" name="role_group_name_key">
-        <object-id>17043</object-id>
+        <object-id>16478</object-id>
         <columns>name</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
@@ -20929,17 +20929,17 @@
         <underlying-index>role_group_name_key</underlying-index>
       </key>
       <column id="3735" parent="11" name="role_group_id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <column id="3736" parent="11" name="role_id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <index id="3737" parent="11" name="role_group_role_pkey">
-        <object-id>17005</object-id>
+        <object-id>16440</object-id>
         <columns>role_group_id
 role_id</columns>
         <desc-columns></desc-columns>
@@ -20964,17 +20964,17 @@ role_id</columns>
         <cascade-delete-rule>restrict</cascade-delete-rule>
       </foreign-key>
       <column id="3741" parent="12" name="user_id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <column id="3742" parent="12" name="role_id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <index id="3743" parent="12" name="user_role_pkey">
-        <object-id>17011</object-id>
+        <object-id>16446</object-id>
         <columns>user_id
 role_id</columns>
         <desc-columns></desc-columns>
@@ -20999,17 +20999,17 @@ role_id</columns>
         <cascade-delete-rule>restrict</cascade-delete-rule>
       </foreign-key>
       <column id="3747" parent="13" name="role_group_id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <column id="3748" parent="13" name="user_id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <index id="3749" parent="13" name="user_role_group_pkey">
-        <object-id>17009</object-id>
+        <object-id>16444</object-id>
         <columns>role_group_id
 user_id</columns>
         <desc-columns></desc-columns>
@@ -21034,79 +21034,79 @@ user_id</columns>
         <cascade-delete-rule>restrict</cascade-delete-rule>
       </foreign-key>
       <column id="3753" parent="14" name="id">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
         <default-expression>nextval(&apos;users_id_seq&apos;::regclass)</default-expression>
       </column>
       <column id="3754" parent="14" name="version">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>bigint</data-type>
       </column>
       <column id="3755" parent="14" name="account_expired">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>boolean</data-type>
       </column>
       <column id="3756" parent="14" name="account_locked">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>boolean</data-type>
       </column>
       <column id="3757" parent="14" name="birth_date">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>timestamp</data-type>
       </column>
       <column id="3758" parent="14" name="email">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3759" parent="14" name="enabled">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>boolean</data-type>
       </column>
       <column id="3760" parent="14" name="first_name">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3761" parent="14" name="last_name">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3762" parent="14" name="num_games">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>integer</data-type>
       </column>
       <column id="3763" parent="14" name="password">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <column id="3764" parent="14" name="password_expired">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>boolean</data-type>
       </column>
       <column id="3765" parent="14" name="username">
-        <state-number>889</state-number>
+        <state-number>626</state-number>
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
       <index id="3766" parent="14" name="users_pk">
-        <object-id>16980</object-id>
+        <object-id>16415</object-id>
         <columns>id</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
       </index>
       <index id="3767" parent="14" name="users_username_key">
-        <object-id>17047</object-id>
+        <object-id>16482</object-id>
         <columns>username</columns>
         <desc-columns></desc-columns>
         <unique>1</unique>
