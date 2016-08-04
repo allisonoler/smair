@@ -139,7 +139,7 @@ h2 {
 
 
 .fixed-menu {
-  background-color: rgba(0, 83, 36, 0.93);
+  background-color: rgb(0, 0, 0);
   position: fixed;
   top: 0;
 }
@@ -216,12 +216,12 @@ h2 {
 #main-slider 
 .carousel-caption a {
   font-size: 22px;
-  color: #2da1c5
+  color: #007f3a
 }
 
 #main-slider 
 .carousel-caption a:hover {
-  color: #2588a6
+  color: #007f3a
 }
 
 #main-slider 
@@ -241,8 +241,8 @@ h2 {
 
 #main-slider 
 .carousel-indicators li {
-  background-color:#1B7B98;
-  border: 1px solid #1B7B98;
+  background-color:#007f3a;
+  border: 1px solid #007f3a;
 }
 
 #main-slider 

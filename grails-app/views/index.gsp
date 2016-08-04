@@ -80,21 +80,21 @@
 				<div class="item active">
 					<asset:image class="img-responsive" src="slider/G36guy.jpeg" alt="slider"/>
 					<div class="carousel-caption">
-						<h2>create an account today </h2>
+						<h2>sign up today </h2>
 						<g:link controller="user" action="create">REGISTER <i class="fa fa-angle-right"></i></g:link>
 					</div>
 				</div>
 				<div class="item">
 					<asset:image class="img-responsive" src="slider/how-to-airsoft-on-a-budget.jpg" alt="slider"/>
 					<div class="carousel-caption">
-						<h2>create an account today </h2>
+						<h2>sign up today </h2>
 						<g:link controller="user" action="create">REGISTER <i class="fa fa-angle-right"></i></g:link>
 					</div>
 				</div>
 				<div class="item">
 					<asset:image class="img-responsive" src="slider/tactical-airsoft.jpg" alt="slider"/>
 					<div class="carousel-caption">
-						<h2>create an account today </h2>
+						<h2>sign up today </h2>
 						<g:link controller="user" action="create">REGISTER <i class="fa fa-angle-right"></i></g:link>
 					</div>
 				</div>				
